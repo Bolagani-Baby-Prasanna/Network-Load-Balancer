@@ -19,5 +19,5 @@ It distributes incoming client requests across multiple backend servers using th
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Network-Load-Balancer.git
+   git clone https://github.com/Bolagani-Baby-Prasanna/Network-Load-Balancer.git
    cd Network-Load-Balancer
